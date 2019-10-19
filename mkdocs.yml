@@ -1,0 +1,7 @@
+site_name: Parcial 2
+
+nav:
+    - Instrucciones: index.md
+    - WebPage: webpage.md
+
+theme: material

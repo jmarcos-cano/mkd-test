@@ -1,7 +1,21 @@
-site_name: Parcial 2
+site_name: Examen Parcial 2
 
 nav:
     - Instrucciones: index.md
-    - WebPage: webpage.md
+    - Parte1 - Cards: parte1.md
+    - Parte2 - Home: parte2.md
+    - Parte3 - About: parte3.md
+    - Entrega: entrega.md
+    - Extra Resources: extra_resources.md
 
 theme: material
+
+plugins:
+    - search
+    - markdownextradata: {}
+
+extra:
+  api:
+    url: http://1a304ff6.ngrok.io/api
+    management: http://1a304ff6.ngrok.io/api/management
+    team: http://1a304ff6.ngrok.io/api/team

@@ -1,0 +1,119 @@
+{
+    "management": [
+        {
+          "id": 1,
+          "email": "george.bluth@ufm.io",
+          "first_name": "George",
+          "last_name": "Bluth",
+          "role": "CEO",
+          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg"
+        },
+        {
+          "id": 2,
+          "email": "janet.weaver@ufm.io",
+          "first_name": "Janet",
+          "last_name": "Weaver",
+          "role": "CTO",
+          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"
+        },
+        {
+          "id": 3,
+          "email": "emma.wong@ufm.io",
+          "first_name": "Emma",
+          "last_name": "Wong",
+          "role": "CFO",
+          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/olegpogodaev/128.jpg"
+        },
+        {
+          "id": 4,
+          "email": "eve.holt@ufm.io",
+          "first_name": "Eve",
+          "last_name": "Holt",
+          "role": "COO",
+          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/marcoramires/128.jpg"
+        },
+        {
+          "id": 5,
+          "email": "charles.morris@ufm.io",
+          "first_name": "Charles",
+          "last_name": "Morris",
+          "role": "CMO",
+          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/stephenmoon/128.jpg"
+        },
+        {
+          "id": 6,
+          "email": "tracey.ramos@ufm.io",
+          "first_name": "Tracey",
+          "last_name": "Ramos",
+          "role": "CIO",
+          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bigmancho/128.jpg"
+        }
+      ],
+      "team": [
+        {
+          "id": 7,
+          "email": "michael.lawson@ufm.io",
+          "first_name": "Michael",
+          "last_name": "Lawson",
+          "role": "VP of Engineering",
+          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
+        },
+        {
+          "id": 8,
+          "email": "lindsay.ferguson@ufm.io",
+          "first_name": "Lindsay",
+          "last_name": "Ferguson",
+          "role": "VP of Sales",
+          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/araa3185/128.jpg"
+        },
+        {
+          "id": 9,
+          "email": "tobias.funke@ufm.io",
+          "first_name": "Tobias",
+          "last_name": "Funke",
+          "role": "VP of Operations",
+          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/vivekprvr/128.jpg"
+        },
+        {
+          "id": 10,
+          "email": "byron.fields@ufm.io",
+          "first_name": "Byron",
+          "last_name": "Fields",
+          "role": "Tech Lead",
+          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/russoedu/128.jpg"
+        },
+        {
+          "id": 11,
+          "email": "george.edwards@ufm.io",
+          "first_name": "George",
+          "last_name": "Edwards",
+          "role": "Developer",
+          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mrmoiree/128.jpg"
+        },
+        {
+          "id": 12,
+          "email": "rachel.howell@ufm.io",
+          "first_name": "Rachel",
+          "last_name": "Howell",
+          "role": "Developer",
+          "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hebertialmeida/128.jpg"
+        },
+        {
+            "id": 13,
+            "email": "juan.jacobs@ufm.io",
+            "first_name": "Juan",
+            "last_name": "Jacobs",
+            "role": "DBA",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bigmancho/128.jpg"
+        },
+        {
+            "id": 14,
+            "email": "John.Doe@ufm.io",
+            "first_name": "John",
+            "last_name": "Doe",
+            "role": "IT",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"
+        }
+
+      ]
+  }

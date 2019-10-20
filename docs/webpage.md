@@ -1,3 +1,0 @@
-# WebPage
-
-![img](Parcial.png)

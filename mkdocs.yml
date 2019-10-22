@@ -5,7 +5,7 @@ nav:
     - Parte1 - Cards: parte1.md
     - Parte2 - Home: parte2.md
     - Parte3 - About: parte3.md
-    - Entrega: entrega.md
+    - Fin - Entrega: entrega.md
     - Extra Resources: resources.md
     - Timer ⌛️: timer.md
 
@@ -17,6 +17,6 @@ plugins:
 
 extra:
   api:
-    url: http://localhost:8000/api/db
-    management: http://localhost:8000/api/management
-    team: http://localhost:8000/api/team
+    url: http://38c6b03a.ngrok.io/api/db
+    management: http://38c6b03a.ngrok.io/api/management
+    team: http://38c6b03a.ngrok.io/api/team

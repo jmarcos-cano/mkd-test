@@ -22,6 +22,15 @@ La pagina debera verse asi:
 
 ![Home](img/home.png)
 
+
+en el **root** (home) puede dejarlo en blanco o utilice un
+
+```html
+<h1>
+Su Nombre Completo
+</h1>
+```
+
 ## Observaciones
 
 - Preste atención a los colores que se utilizan (css) [Material Design](resources.md#html), PERO USTED PUEDE HACERLO PERSONALIZADO Y AGREGAR LOS COLORES O DISENOS QUE USTED QUIERA

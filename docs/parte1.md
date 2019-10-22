@@ -11,7 +11,7 @@ Esta respuesta representa la estructura organizacional de una empresa ficticia, 
 - [team:]({{api.team}}) representa a los demas empleados
 
 ## Info Cards
-Usted debera crear containers (info cards) que tengan y representen cada uno de los campos para cada empleado. 
+Usted debera crear containers (info cards, puede ver la seccion de [Cards](resources.md#html-cards) 😉 ) que tengan y representen cada uno de los campos para cada empleado. 
 
 <br>
 > (Por favor que ni se le pase por la mente quemar o hardcodear)

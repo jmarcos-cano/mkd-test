@@ -2,8 +2,8 @@
 
 
 
-up:
-	docker-compose up --build
+up: build
+	docker-compose up
 
 local:
 	mkdocs serve

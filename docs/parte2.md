@@ -20,7 +20,7 @@ Una vez completada la [Parte 1](parte1.md) ahora debe crear un home page con los
   - [Team]({{api.team}}): se deplegara los info cards de cada persona que trabaje dentro del [team]({{api.team}}) que ocupen cualquier otro puesto.
   - About: donde se desplegara informacion acerca de Usted, en la [Parte 3](parte3.md)
 
-- List: lista de containers con cada info card, OJO es solamente en 1 columna.
+- List: lista de containers con cada info card, OJO es solamente en 1 columna. Esta lista **PUEDE** (no debe) ser como [Cards](resources.md#html-cards)
 
 ## Web Page
 La pagina debera verse asi:
@@ -29,7 +29,7 @@ La pagina debera verse asi:
 
 ## Observaciones
 
-- Preste atención a los colores que se utilizan (css) [Material Design], PERO USTED PUEDE HACERLO PERSONALIZADO Y AGREGAR LOS COLORES O DISENOS QUE USTED QUIERA
+- Preste atención a los colores que se utilizan (css) [Material Design](resources.md#html), PERO USTED PUEDE HACERLO PERSONALIZADO Y AGREGAR LOS COLORES O DISENOS QUE USTED QUIERA
 - Preste atención a la ubicacion de las cosas.
 - Vea que el about es un  "boton" de color fuschia.
 - NO es un grid, es en una sola columna.

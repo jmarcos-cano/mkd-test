@@ -5,16 +5,16 @@
 
 Usted interactua con un [API]({{ api.url }}) y obtendra una respuesta en JSON que usted debera parsear.
 
-Esta respuesta representa la estructura organizacional de una empresa ficticia, este JSON tendra dos arrays:
+Esta respuesta representa la estructura organizacional de una empresa ficticia, este JSON tendra dos arrays los cuales usted puede accesar individualmente de la siguiente forma:
 
 - [management:]({{api.management}}) representa a los fundadores y los chief heads de la empresa
 - [team:]({{api.team}}) representa a los demas empleados
 
 ## Info Cards
-Usted debera crear containers (info cards, puede ver la seccion de [Cards](resources.md#html-cards) 😉 ) que tengan y representen cada uno de los campos para cada empleado. 
+Con la respuesta del API usted debera crear cards (containers, info cards, puede ver la seccion de [Cards](resources.md#html-cards) 😉 ) que contengan y representen cada uno de los campos para cada empleado.
 
 <br>
-> (Por favor que ni se le pase por la mente quemar o hardcodear)
+> (Por favor que ni se le pase por la mente quemar o hardcodear, se probara con diferente data)
 
 <br>
 
@@ -54,3 +54,4 @@ Cada campo del JSON response debera ser mapeado a esta card.
 - se debera crear una card por cada empleado
 - NO debe ser en forma de grid, es decir debe ser como se muestra en la siguiente parte
 - Resuelva esto de una manera programatica, es decir de una manera que le permita interactuar con ambos API endpoint de una forma uniforme y sin repetir codigo, vea que hay 2 endpoints pero es el mismo schema/formato de respuesta.
+- **!** Haga porfavor que la URL del API sea facil de modificar, necesito modificarla facilmente al momento de calificar, mucho mejor si utiliza variables de entorno y si la coloca entre las primeras 10 lineas de su codigo como variable global.

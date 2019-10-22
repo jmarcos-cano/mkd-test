@@ -1,26 +1,21 @@
 # Parte II - (60 pts)
 
-<!-- TOC -->
-
-- [Parte II - (60 pts)](#parte-ii---60-pts)
-  - [Descripcion](#descripcion)
-  - [Web Page](#web-page)
-  - [Observaciones](#observaciones)
-
-<!-- /TOC -->
 
 ## Descripcion
 
 
 Una vez completada la [Parte 1](parte1.md) ahora debe crear un home page con los siguientes elementos:
 
-- navbar:
-  - Title: Parcial 2 o lo que usted desee
-  - [Management]({{api.management}}): donde se deplegara los info cards de cada una de las personas que se encuentren trabajando en la empresa en el [management]({{api.management}}) team
-  - [Team]({{api.team}}): se deplegara los info cards de cada persona que trabaje dentro del [team]({{api.team}}) que ocupen cualquier otro puesto.
-  - About: donde se desplegara informacion acerca de Usted, en la [Parte 3](parte3.md)
+- **navbar**:
+    - Title: Parcial 2 o lo que usted desee
+    - [Management]({{api.management}}): donde se deplegara los info cards de cada una de las personas que se encuentren trabajando en la empresa en el [management]({{api.management}}) team
+    - [Team]({{api.team}}): se deplegara los info cards de cada persona que trabaje dentro del [team]({{api.team}}) que ocupen cualquier otro puesto.
+    - About: donde se desplegara informacion acerca de Usted, en la [Parte 3](parte3.md)
 
-- List: lista de containers con cada info card, OJO es solamente en 1 columna. Esta lista **PUEDE** (no debe) ser como [Cards](resources.md#html-cards)
+
+- **Card List/Table**: lista de containers con cada info card, OJO es solamente en 1 columna. Esta lista **PUEDE**  ser como [Cards](resources.md#html-cards)
+
+> en el navbar las opciones del bar pueden estar alineadas hacia la derecha, no necesariamente en el centro.
 
 ## Web Page
 La pagina debera verse asi:

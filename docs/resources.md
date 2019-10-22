@@ -4,7 +4,7 @@ A continuacion se le brindan recursos extras que puede utilizar en su examen
 
 
 ## HTML
-puede encontrar toda la ayuda CSS [aqui](https://materializecss.com/color.html), no tiene que usar esto, pero es un buen inicio, **debe modificarlo para adaptarlo.**
+puede encontrar toda la ayuda [CSS aqui](https://materializecss.com/color.html), no tiene que usar esto, pero es un buen inicio, **debe modificarlo para adaptarlo.**
 
 > este html ya incluye Material Design
 
@@ -70,6 +70,8 @@ CMD ["python", "app.py"]
 
 
 ## HTML cards
+
+Me apoye en este [CSS](https://www.w3schools.com/w3css/w3css_cards.asp)
 
 ```html
 <!DOCTYPE html>

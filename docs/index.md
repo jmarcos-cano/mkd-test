@@ -1,6 +1,6 @@
 # Instrucciones
 
-Lea cada uno de las instrucciones a detalle, sin excepcion **no habra dudas** durante el examen.
+Lea cada una de las instrucciones a detalle, sin excepcion **no habra dudas** durante el examen.
 
 El Examen estara compuesto de estas partes:
 
@@ -10,7 +10,7 @@ El Examen estara compuesto de estas partes:
 
 ## Navegacion
 
-Se le provee esta pagina donde estan las instrucciones para su examen parcial II practico.
+Para poder navegar en esta pagina puede encontrar la siguiente informacion:
 
 - **Search Bar:** usted puede buscar algun tópico en el search que esta en navbar, parte superior derecha.
 - **Partes:** las partes a evaluar estan listadas en la columna izquierda con un breadcrumb en la parte inferior, donde usted puede hacer Next/Previous

@@ -288,6 +288,18 @@
   </li>
 
     
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../timer/" title="Timer ⌛️" class="md-nav__link">
+      Timer ⌛️
+    </a>
+  </li>
+
+    
   </ul>
 </nav>
                   </div>
@@ -347,18 +359,18 @@
                 
                 
                 <h1 id="parte-i-info-cards-30-pts">Parte I - Info Cards (30 pts.)</h1>
-<h2 id="rest-api-endpoints">REST <a href="http://1a304ff6.ngrok.io/api">API</a> endpoints</h2>
-<p>Usted interactua con un <a href="http://1a304ff6.ngrok.io/api">API</a> y obtendra una respuesta en JSON que usted debera parsear.</p>
-<p>Esta respuesta representa la estructura organizacional de una empresa ficticia, este JSON tendra dos arrays:</p>
+<h2 id="rest-api-endpoints">REST <a href="http://localhost:8000/api/db">API</a> endpoints</h2>
+<p>Usted interactua con un <a href="http://localhost:8000/api/db">API</a> y obtendra una respuesta en JSON que usted debera parsear.</p>
+<p>Esta respuesta representa la estructura organizacional de una empresa ficticia, este JSON tendra dos arrays los cuales usted puede accesar individualmente de la siguiente forma:</p>
 <ul>
-<li><a href="http://1a304ff6.ngrok.io/api/management">management:</a> representa a los fundadores y los chief heads de la empresa</li>
-<li><a href="http://1a304ff6.ngrok.io/api/team">team:</a> representa a los demas empleados</li>
+<li><a href="http://localhost:8000/api/management">management:</a> representa a los fundadores y los chief heads de la empresa</li>
+<li><a href="http://localhost:8000/api/team">team:</a> representa a los demas empleados</li>
 </ul>
 <h2 id="info-cards">Info Cards</h2>
-<p>Usted debera crear containers (info cards, puede ver la seccion de <a href="../resources/#html-cards">Cards</a> 😉 ) que tengan y representen cada uno de los campos para cada empleado. </p>
+<p>Con la respuesta del API usted debera crear cards (containers, info cards, puede ver la seccion de <a href="../resources/#html-cards">Cards</a> 😉 ) que contengan y representen cada uno de los campos para cada empleado.</p>
 <p><br></p>
 <blockquote>
-<p>(Por favor que ni se le pase por la mente quemar o hardcodear)</p>
+<p>(Por favor que ni se le pase por la mente quemar o hardcodear, se probara con diferente data)</p>
 </blockquote>
 <p><br></p>
 <p><img alt="img" src="../img/card.png" /></p>
@@ -391,6 +403,7 @@ Cada campo del JSON response debera ser mapeado a esta card.</p>
 <li>se debera crear una card por cada empleado</li>
 <li>NO debe ser en forma de grid, es decir debe ser como se muestra en la siguiente parte</li>
 <li>Resuelva esto de una manera programatica, es decir de una manera que le permita interactuar con ambos API endpoint de una forma uniforme y sin repetir codigo, vea que hay 2 endpoints pero es el mismo schema/formato de respuesta.</li>
+<li><strong>!</strong> Haga porfavor que la URL del API sea facil de modificar, necesito modificarla facilmente al momento de calificar, mucho mejor si utiliza variables de entorno y si la coloca entre las primeras 10 lineas de su codigo como variable global.</li>
 </ul>
                 
                   

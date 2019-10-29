@@ -1,7 +1,5 @@
 .PHONY:  all
 
-
-
 up: build
 	docker-compose up -d
 
